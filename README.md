@@ -1,5 +1,2 @@
-# Traditional-hello-world
-My first repository. starting to learn.
-
-I am Maan, Gamer since 1998,Husband and father of 2 boys.
-starting my journey to gain knowledge about github.
+# Learning Python
+This is a python script to extract google trends data in bulk using google colab.
